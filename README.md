@@ -30,7 +30,7 @@ npm start
 This will start the development server and open the application in your browser at [http://localhost:3000](http://localhost:3000).
 
 
-Depoly in netlify : https://genuine-salmiakki-c85dfa.netlify.app/
+deploy in netlify : https://genuine-salmiakki-c85dfa.netlify.app/
 
 ## Technologies Used
 
