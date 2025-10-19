@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "TechNova Solutions",
+    "industry": "Technology",
+    "location": "San Francisco, CA",
+    "founded": 2010,
+    "employees": 450,
+    "description": "TechNova Solutions is a leading software development company specializing in AI and machine learning solutions.",
+    "website": "https://technova.example.com",
+    "logo": "https://via.placeholder.com/150?text=TechNova"
+  },
+  {
+    "id": 2,
+    "name": "GreenEarth Renewables",
+    "industry": "Energy",
+    "location": "Austin, TX",
+    "founded": 2015,
+    "employees": 220,
+    "description": "GreenEarth Renewables focuses on sustainable energy solutions and green technology.",
+    "website": "https://greenearth.example.com",
+    "logo": "https://via.placeholder.com/150?text=GreenEarth"
+  },
+  {
+    "id": 3,
+    "name": "HealthPlus Medical",
+    "industry": "Healthcare",
+    "location": "Boston, MA",
+    "founded": 2008,
+    "employees": 780,
+    "description": "HealthPlus Medical develops innovative healthcare solutions and medical devices.",
+    "website": "https://healthplus.example.com",
+    "logo": "https://via.placeholder.com/150?text=HealthPlus"
+  },
+  {
+    "id": 4,
+    "name": "FinanceWise",
+    "industry": "Finance",
+    "location": "New York, NY",
+    "founded": 2012,
+    "employees": 350,
+    "description": "FinanceWise provides financial technology solutions for banking and investment sectors.",
+    "website": "https://financewise.example.com",
+    "logo": "https://via.placeholder.com/150?text=FinanceWise"
+  },
+  {
+    "id": 5,
+    "name": "EduLearn Academy",
+    "industry": "Education",
+    "location": "Chicago, IL",
+    "founded": 2017,
+    "employees": 120,
+    "description": "EduLearn Academy offers online learning platforms and educational technology.",
+    "website": "https://edulearn.example.com",
+    "logo": "https://via.placeholder.com/150?text=EduLearn"
+  },
+  {
+    "id": 6,
+    "name": "RetailPro",
+    "industry": "Retail",
+    "location": "Seattle, WA",
+    "founded": 2009,
+    "employees": 520,
+    "description": "RetailPro specializes in e-commerce solutions and retail management systems.",
+    "website": "https://retailpro.example.com",
+    "logo": "https://via.placeholder.com/150?text=RetailPro"
+  },
+  {
+    "id": 7,
+    "name": "MediaStream",
+    "industry": "Media",
+    "location": "Los Angeles, CA",
+    "founded": 2014,
+    "employees": 280,
+    "description": "MediaStream provides streaming services and digital content solutions.",
+    "website": "https://mediastream.example.com",
+    "logo": "https://via.placeholder.com/150?text=MediaStream"
+  },
+  {
+    "id": 8,
+    "name": "FoodDelight",
+    "industry": "Food & Beverage",
+    "location": "Portland, OR",
+    "founded": 2016,
+    "employees": 190,
+    "description": "FoodDelight offers innovative food delivery and restaurant management solutions.",
+    "website": "https://fooddelight.example.com",
+    "logo": "https://via.placeholder.com/150?text=FoodDelight"
+  },
+  {
+    "id": 9,
+    "name": "TravelEase",
+    "industry": "Travel",
+    "location": "Miami, FL",
+    "founded": 2013,
+    "employees": 230,
+    "description": "TravelEase develops travel booking platforms and tourism management software.",
+    "website": "https://travelease.example.com",
+    "logo": "https://via.placeholder.com/150?text=TravelEase"
+  },
+  {
+    "id": 10,
+    "name": "ConstructBuild",
+    "industry": "Construction",
+    "location": "Denver, CO",
+    "founded": 2011,
+    "employees": 410,
+    "description": "ConstructBuild provides construction management software and building solutions.",
+    "website": "https://constructbuild.example.com",
+    "logo": "https://via.placeholder.com/150?text=ConstructBuild"
+  },
+  {
+    "id": 11,
+    "name": "AutoDrive",
+    "industry": "Automotive",
+    "location": "Detroit, MI",
+    "founded": 2018,
+    "employees": 180,
+    "description": "AutoDrive specializes in autonomous vehicle technology and automotive software.",
+    "website": "https://autodrive.example.com",
+    "logo": "https://via.placeholder.com/150?text=AutoDrive"
+  },
+  {
+    "id": 12,
+    "name": "FashionTrend",
+    "industry": "Fashion",
+    "location": "New York, NY",
+    "founded": 2015,
+    "employees": 150,
+    "description": "FashionTrend offers e-commerce solutions for fashion retailers and brands.",
+    "website": "https://fashiontrend.example.com",
+    "logo": "https://via.placeholder.com/150?text=FashionTrend"
+  }
+]
